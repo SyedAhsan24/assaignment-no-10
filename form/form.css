@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:lightgray;
+
+}
+.main{
+    text-align: center;
+    
+
+}
+#free{
+    box-shadow: 2px 3px 4px gray;
+}
+#for1{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+#for8{
+    font-size:x-small;
+}
+#book{
+    border:1px solid ;
+    border-radius:5px 5px 5px 5px;
+    margin-left: 150px;
+    width: 350px;
+    background-color: blue;
+    color: white;
+    margin: auto;
+
+}
